@@ -243,5 +243,14 @@
       "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787721187.33837,
+    "completed_at": 1787721190.237749,
+    "comments": [
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) did not match any of the accepted answers."
+    ],
+    "status": "Incomplete"
   }
 ]
