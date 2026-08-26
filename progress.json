@@ -349,5 +349,14 @@
       "Missing lightweight tag \"first-pilot\"."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1787723042.930135,
+    "completed_at": 1787723045.759582,
+    "comments": [
+      "\"first-pilot\" should point to the first commit."
+    ],
+    "status": "Incomplete"
   }
 ]
